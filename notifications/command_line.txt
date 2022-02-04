@@ -1,0 +1,7 @@
+java  \
+"-DprojectName=Local run" \
+"-Denv=https:qa.quru" \
+"-DreportLink=https://no.link/" \
+"-Dcomm=Any comment here" \
+"-Dconfig.file=./notification/telegram_config.json" \
+-jar ./notification/allure-notifications-3.1.2.jar
