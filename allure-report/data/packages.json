@@ -1,0 +1,98 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "BotTests",
+    "children" : [ {
+      "name" : "test00",
+      "uid" : "3e84483c6d836f99",
+      "parentUid" : "f99f68dacf006c0d12b1473512e2ad5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644075755845,
+        "stop" : 1644075755938,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test01",
+      "uid" : "f5335b91bd68df5b",
+      "parentUid" : "f99f68dacf006c0d12b1473512e2ad5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644075756173,
+        "stop" : 1644075756189,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test02",
+      "uid" : "8adf628d273cad26",
+      "parentUid" : "f99f68dacf006c0d12b1473512e2ad5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644075756204,
+        "stop" : 1644075756220,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f99f68dacf006c0d12b1473512e2ad5b"
+  }, {
+    "name" : "NegativBotTests",
+    "children" : [ {
+      "name" : "test00",
+      "uid" : "6c93e7c7c3d3ff42",
+      "parentUid" : "9e91268b0c49fe10256953469a6de82a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1644075756251,
+        "stop" : 1644075756267,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test01",
+      "uid" : "1ffa73db244c2346",
+      "parentUid" : "9e91268b0c49fe10256953469a6de82a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1644075756314,
+        "stop" : 1644075756314,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9e91268b0c49fe10256953469a6de82a"
+  } ]
+}

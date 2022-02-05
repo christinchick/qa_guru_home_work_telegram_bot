@@ -1,0 +1,67 @@
+{
+  "uid" : "8adf628d273cad26",
+  "name" : "test02()",
+  "fullName" : "BotTests.test02",
+  "historyId" : "94deeb13fa0a10653a3770fa2aace89",
+  "time" : {
+    "start" : 1644075756204,
+    "stop" : 1644075756220,
+    "duration" : 16
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "simple"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:BotTests]/[method:test02()]"
+  }, {
+    "name" : "host",
+    "value" : "Home"
+  }, {
+    "name" : "thread",
+    "value" : "4356@Home.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "BotTests"
+  }, {
+    "name" : "testClass",
+    "value" : "BotTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02"
+  }, {
+    "name" : "suite",
+    "value" : "BotTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "simple" ]
+  },
+  "source" : "8adf628d273cad26.json",
+  "parameterValues" : [ ]
+}

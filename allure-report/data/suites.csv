@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Feb 05 18:42:36 MSK 2022","Sat Feb 05 18:42:36 MSK 2022","16","","NegativBotTests","","NegativBotTests","test00","test00()",""
+"failed","Sat Feb 05 18:42:36 MSK 2022","Sat Feb 05 18:42:36 MSK 2022","0","","NegativBotTests","","NegativBotTests","test01","test01()",""
+"passed","Sat Feb 05 18:42:36 MSK 2022","Sat Feb 05 18:42:36 MSK 2022","16","","BotTests","","BotTests","test01","test01()",""
+"passed","Sat Feb 05 18:42:36 MSK 2022","Sat Feb 05 18:42:36 MSK 2022","16","","BotTests","","BotTests","test02","test02()",""
+"passed","Sat Feb 05 18:42:35 MSK 2022","Sat Feb 05 18:42:35 MSK 2022","93","","BotTests","","BotTests","test00","test00()",""
