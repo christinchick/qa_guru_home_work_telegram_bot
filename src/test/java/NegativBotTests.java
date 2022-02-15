@@ -6,12 +6,12 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 @Tag("simple")
 public class NegativBotTests {
     @Test
-    void test00() {
+    void test1() {
         assertTrue(false);
     }
 
     @Test
-    void test01() {
+    void test2() {
         assertTrue(false);
     }
 }
