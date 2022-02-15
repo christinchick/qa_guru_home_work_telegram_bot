@@ -16,8 +16,4 @@ public class BotTests {
             assertTrue(true);
         }
 
-        @Test
-        void test3() {
-            assertTrue(true);
-        }
 }
