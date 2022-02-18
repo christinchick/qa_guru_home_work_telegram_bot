@@ -18,6 +18,6 @@ public class BotTests {
 
         @Test
         void test02() {
-            assertTrue(true);
+            assertFalse(false);
         }
 }
