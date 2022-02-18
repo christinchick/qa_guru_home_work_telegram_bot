@@ -7,17 +7,13 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class BotTests {
 
         @Test
-        void test00() {
+        void test1() {
             assertTrue(true);
         }
 
         @Test
-        void test01() {
+        void test2() {
             assertTrue(true);
         }
 
-        @Test
-        void test02() {
-            assertTrue(true);
-        }
 }
